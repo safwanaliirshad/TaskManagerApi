@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\TaskManagementAPI\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\HP\source\repos\TaskManagementAPI\Model\bin\Debug\net8.0\Model.dll
+C:\Users\HP\source\repos\TaskManagementAPI\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\HP\source\repos\TaskManagementAPI\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TaskManagementAPI\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TaskManagementAPI\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\HP\source\repos\TaskManagementAPI\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TaskManagementAPI\Model\obj\Debug\net8.0\Model.dll
+C:\Users\HP\source\repos\TaskManagementAPI\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\HP\source\repos\TaskManagementAPI\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\HP\source\repos\TaskManagementAPI\Model\obj\Debug\net8.0\ref\Model.dll
